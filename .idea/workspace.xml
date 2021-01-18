@@ -4,12 +4,11 @@
     <list default="true" id="9bc0e52e-6042-4364-b8f9-070a56dc2403" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.test.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-20.04\home\hermes\react25projects\birthday-reminder\src\data" />
       <recent name="\\wsl$\Ubuntu-20.04\home\hermes\react25projects\birthday-reminder\src\components\App" />
       <recent name="\\wsl$\Ubuntu-20.04\home\hermes\react25projects\birthday-reminder\src\components" />
     </key>
@@ -55,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610965995755</updated>
       <workItem from="1610965996869" duration="1417000" />
-      <workItem from="1610967459048" duration="1990000" />
+      <workItem from="1610967459048" duration="2302000" />
     </task>
     <servers />
   </component>
